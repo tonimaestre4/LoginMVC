@@ -23,4 +23,4 @@ if($numUser==1){
 }else{
     //Fallo en la autenticación
     header("Location:../view/vista_login.html?error=1");
-}
+} 
